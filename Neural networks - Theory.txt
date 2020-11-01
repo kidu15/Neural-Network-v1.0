@@ -1,0 +1,10 @@
+Neural networks - Theory 
+
+PERCEPTRON 
+
+    Inputs  -  Synapses  -  Neuron              Output 
+
+    x1          w1          formula             y 
+
+
+    Sigmoid function for normalizing function 
